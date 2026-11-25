@@ -1,5 +1,5 @@
 # dopy-tui
-**v0.1.0**
+**v0.1.1**
 
 dopy-tui is a todo-app written in Python. It is currently a cli-only and TUI is planned.
 
@@ -26,6 +26,5 @@ The program automatically saves your list to ```~/.local/share/dopy-tui/```
 - Linux/Unix
 
 ## Known issues
-- Saved data can be lost if program crashes mid-write
 - Corrupt data file may crash program
 - TUI (curses) not implemented yet
